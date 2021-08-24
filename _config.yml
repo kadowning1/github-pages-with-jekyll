@@ -1,13 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: KD's Programming Voyage
+author: kadowning1
+email: kadowning1@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Excited to start a web development bootcamp to enhance my skills and become a Dev!  I know it will be a voyage of headache, lack of sleep, and pressure, but eagar to build each and every day.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: kadowning # DO NOT include the @ character, or else the build will fail!
+github_username:  kadowning1 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
